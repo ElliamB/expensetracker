@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mzuzu University Expenses Tracker</string>
+    <string name="logo">Logo</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="date">Date</string>
+    <string name="amount">Amount</string>
+    <string name="mwk_500">MWK 500</string>
+    <string name="_2025_05_22">2025-05-22</string>
+    <string name="delete">Delete</string>
+</resources>
